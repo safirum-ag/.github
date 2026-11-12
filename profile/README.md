@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1104694549122666546/1570350178014072832/image.png?ex=6af6c612&is=6af57492&hm=cf2dbafdce07a5a503bff569c5692e47bb79529631ae4874a58e9a00e71fbc54&" alt="Safirum: regulated Swiss franc stablecoin infrastructure">
-</p>
+<div align="center">
+
+<img src="apps/site/public/logo-icon.png" alt="Safirum" width="88" />
+
+# Safirum CHF-S
 
 <h1 align="center">Swiss Franc at internet speed</h1>
 <h2 align="center">Swiss Digital Currency Infrastructure</h2>
