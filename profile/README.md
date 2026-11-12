@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1888" height="1056" alt="pLK3C" src="https://github.com/user-attachments/assets/8e8ba3f0-c2cf-4d8a-a3e9-48afb5fa9484" />
+
 # Safirum CHF-S
 
 <h1 align="center">Swiss Franc at internet speed</h1>
